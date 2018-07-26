@@ -32,6 +32,7 @@ return array(
     'App\\Providers\\BroadcastServiceProvider' => $baseDir . '/app/Providers/BroadcastServiceProvider.php',
     'App\\Providers\\EventServiceProvider' => $baseDir . '/app/Providers/EventServiceProvider.php',
     'App\\Providers\\RouteServiceProvider' => $baseDir . '/app/Providers/RouteServiceProvider.php',
+    'App\\Role' => $baseDir . '/app/Role.php',
     'App\\User' => $baseDir . '/app/User.php',
     'Appzcoder\\CrudGenerator\\Commands\\CrudApiCommand' => $vendorDir . '/appzcoder/crud-generator/src/Commands/CrudApiCommand.php',
     'Appzcoder\\CrudGenerator\\Commands\\CrudApiControllerCommand' => $vendorDir . '/appzcoder/crud-generator/src/Commands/CrudApiControllerCommand.php',
